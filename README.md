@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shakti%20Vijay%20A%20S&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%2B%20AI%20Engineer%20%7C%20Chennai%2C%20India&descSize=18&descColor=fff&descAlignY=58" />
 
@@ -24,45 +24,45 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏆%20THREX%20Hackathon-Top%2020%20All%20India%20%40%20SRM-FFD700?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/ðŸ†%20THREX%20Hackathon-Top%2020%20All%20India%20%40%20SRM-FFD700?style=for-the-badge&labelColor=1a1a2e" />
 &nbsp;
-<img src="https://img.shields.io/badge/🥇%20VIBETHON%20Bengaluru-Top%2015%20%7C%201000%2B%20Participants-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/ðŸ¥‡%20VIBETHON%20Bengaluru-Top%2015%20%7C%201000%2B%20Participants-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ðŸ‘¨â€ðŸ’» About Me
 
 ```bash
-┌──(shakti㉿universe)-[~/life]
-│
-├── 🎓 education    → B.E CSE @ Chennai Institute of Technology (2024–2028)
-├── 📍 location     → Chennai, India
-├── 💼 experience   → Oracle Cloud Intern @ ChainSys | AICTE Full Stack Intern
-├── 📊 cgpa         → 7.5 / 10
-├── 🔭 building     → omnimind · shot-architect · aegis
-├── 🌱 learning     → Agentic AI · AWS · System Design at Scale
-├── 🏆 achievements → Top 20 THREX Hackathon · Top 15 VIBETHON (1000+ devs)
-├── ⚡ fun_fact     → Built a 3D particle neural network for my portfolio
-└── 💬 philosophy   → "Ship fast. Learn faster. Build things that matter."
+â”Œâ”€â”€(shaktiã‰¿universe)-[~/life]
+â”‚
+â”œâ”€â”€ ðŸŽ“ education    â†’ B.E CSE @ Chennai Institute of Technology (2024â€“2028)
+â”œâ”€â”€ ðŸ“ location     â†’ Chennai, India
+â”œâ”€â”€ ðŸ’¼ experience   â†’ Oracle Cloud Intern @ ChainSys | AICTE Full Stack Intern
+â”œâ”€â”€ ðŸ“Š cgpa         â†’ 7.5 / 10
+â”œâ”€â”€ ðŸ”­ building     â†’ omnimind Â· shot-architect Â· aegis
+â”œâ”€â”€ ðŸŒ± learning     â†’ Agentic AI Â· AWS Â· System Design at Scale
+â”œâ”€â”€ ðŸ† achievements â†’ Top 20 THREX Hackathon Â· Top 15 VIBETHON (1000+ devs)
+â”œâ”€â”€ âš¡ fun_fact     â†’ Built a 3D particle neural network for my portfolio
+â””â”€â”€ ðŸ’¬ philosophy   â†’ "Ship fast. Learn faster. Build things that matter."
 ```
 
 ---
 
-## 🚀 Projects
+## ðŸš€ Projects
 
-### 🤖 AI & Machine Learning
+### ðŸ¤– AI & Machine Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/shaktivijayas/omnimind">
-<img src="https://img.shields.io/badge/─────%20omnimind%20─────-No--code%20AI%20Chatbot%20SaaS-7c3aed?style=for-the-badge&logo=openai&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/;%20omnimind%20;-No--code%20AI%20Chatbot%20SaaS-7c3aed?style=for-the-badge&logo=openai&logoColor=white" width="100%"/>
 </a>
 
-Multi-channel AI chatbot builder with **LLM + RAG** — deploy to WhatsApp, Slack & Web without writing a single line of code.
+Multi-channel AI chatbot builder with **LLM + RAG** â€” deploy to WhatsApp, Slack & Web without writing a single line of code.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
@@ -74,10 +74,10 @@ Multi-channel AI chatbot builder with **LLM + RAG** — deploy to WhatsApp, Slac
 <td width="50%" valign="top">
 
 <a href="https://github.com/shaktivijayas/shot-architect">
-<img src="https://img.shields.io/badge/───%20shot--architect%20───-AI%20Cinematic%20Studio-FF6B6B?style=for-the-badge&logo=film&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/;%20shot--architect%20;-AI%20Cinematic%20Studio-FF6B6B?style=for-the-badge&logo=film&logoColor=white" width="100%"/>
 </a>
 
-Scene graph video editor with **multi-model AI orchestration** — the Figma for cinematic video production with real-time collaboration.
+Scene graph video editor with **multi-model AI orchestration** â€” the Figma for cinematic video production with real-time collaboration.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -90,7 +90,7 @@ Scene graph video editor with **multi-model AI orchestration** — the Figma for
 <td width="50%" valign="top">
 
 <a href="https://github.com/shaktivijayas/aegis">
-<img src="https://img.shields.io/badge/─────%20aegis%20─────-Defensive%20AI%20Security-FF4444?style=for-the-badge&logo=shield&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/;%20aegis%20;-Defensive%20AI%20Security-FF4444?style=for-the-badge&logo=shield&logoColor=white" width="100%"/>
 </a>
 
 Trains **Sentinel agents** to detect and counter Shadow AI attacks from compromised coding assistants across 5 difficulty levels.
@@ -104,7 +104,7 @@ Trains **Sentinel agents** to detect and counter Shadow AI attacks from compromi
 <td width="50%" valign="top">
 
 <a href="https://github.com/shaktivijayas/echomood">
-<img src="https://img.shields.io/badge/─────%20echomood%20─────-AI%20Mood%20Dashboard-00d4ff?style=for-the-badge&logo=google&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/;%20echomood%20;-AI%20Mood%20Dashboard-00d4ff?style=for-the-badge&logo=google&logoColor=white" width="100%"/>
 </a>
 
 Mood-aware conversations powered by **Google Gemini** with Nextcloud file sync, deployed via Docker and Kubernetes.
@@ -118,17 +118,17 @@ Mood-aware conversations powered by **Google Gemini** with Nextcloud file sync, 
 </tr>
 </table>
 
-### 🛠️ Full Stack
+### ðŸ› ï¸ Full Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/shaktivijayas/gradepath">
-<img src="https://img.shields.io/badge/─────%20gradepath%20─────-College%20Management%20System-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black" width="100%"/>
+<img src="https://img.shields.io/badge/;%20gradepath%20;-College%20Management%20System-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black" width="100%"/>
 </a>
 
-Full-stack college platform with **role-based access** — attendance, marks, announcements & competitive programming all in one dashboard.
+Full-stack college platform with **role-based access** â€” attendance, marks, announcements & competitive programming all in one dashboard.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -139,10 +139,10 @@ Full-stack college platform with **role-based access** — attendance, marks, an
 <td width="50%" valign="top">
 
 <a href="https://github.com/shaktivijayas/AuthentiQ">
-<img src="https://img.shields.io/badge/─────%20AuthentiQ%20─────-Certificate%20Verification-4CAF50?style=for-the-badge&logo=shield-check&logoColor=white" width="100%"/>
+<img src="https://img.shields.io/badge/;%20AuthentiQ%20;-Certificate%20Verification-4CAF50?style=for-the-badge&logo=shield-check&logoColor=white" width="100%"/>
 </a>
 
-Trust-minimized platform where institutions issue **SHA-256 cryptographic credentials** — anyone can verify authenticity instantly.
+Trust-minimized platform where institutions issue **SHA-256 cryptographic credentials** â€” anyone can verify authenticity instantly.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -155,7 +155,7 @@ Trust-minimized platform where institutions issue **SHA-256 cryptographic creden
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Trust-minimized platform where institutions issue **SHA-256 cryptographic creden
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
 
@@ -223,7 +223,7 @@ Trust-minimized platform where institutions issue **SHA-256 cryptographic creden
 
 ---
 
-## 🏆 Trophies
+## ðŸ† Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shaktivijayas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
@@ -231,7 +231,7 @@ Trust-minimized platform where institutions issue **SHA-256 cryptographic creden
 
 ---
 
-## 🐍 Contribution Snake
+## ðŸ Contribution Snake
 
 <div align="center">
 <picture>
@@ -243,18 +243,18 @@ Trust-minimized platform where institutions issue **SHA-256 cryptographic creden
 
 ---
 
-## 🎯 2025 Roadmap
+## ðŸŽ¯ 2025 Roadmap
 
 <div align="center">
 
 | Goal | Status |
 |:---|:---:|
-| 🚀 Ship **omnimind** as a public SaaS product | 🔄 In Progress |
-| 🧠 Build and deploy a production RAG pipeline | 🔄 In Progress |
-| 🌐 Contribute to 3 open source projects | 🔄 In Progress |
-| 📚 Complete AWS Cloud Practitioner certification | ⏳ Planned |
-| 💼 Land a Full Stack / AI Engineering role | ⏳ Planned |
-| ⭐ Hit 100 GitHub stars across projects | ⏳ Planned |
+| ðŸš€ Ship **omnimind** as a public SaaS product | ðŸ”„ In Progress |
+| ðŸ§  Build and deploy a production RAG pipeline | ðŸ”„ In Progress |
+| ðŸŒ Contribute to 3 open source projects | ðŸ”„ In Progress |
+| ðŸ“š Complete AWS Cloud Practitioner certification | â³ Planned |
+| ðŸ’¼ Land a Full Stack / AI Engineering role | â³ Planned |
+| â­ Hit 100 GitHub stars across projects | â³ Planned |
 
 </div>
 
