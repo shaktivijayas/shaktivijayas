@@ -8,29 +8,21 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/ShakthiVijay">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/ShakthiVijay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://portfolio-seven-gray-25.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://portfolio-seven-gray-25.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:vijayrox1955@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:vijayrox1955@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shaktivijayas&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00d4ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/B.E%20CSE-2024--2028-7c3aed?style=for-the-badge" />
 
 <br/><br/>
-
-### 🏆 Achievements
 
 <img src="https://img.shields.io/badge/🏆%20THREX%20Hackathon-Top%2020%20All%20India%20%40%20SRM-FFD700?style=for-the-badge&labelColor=1a1a2e" />
 &nbsp;
@@ -42,152 +34,85 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+```bash
+┌──(shakti㉿universe)-[~/life]
+│
+├── 🎓 education    → B.E CSE @ Chennai Institute of Technology (2024–2028)
+├── 📍 location     → Chennai, India
+├── 💼 experience   → Oracle Cloud Intern @ ChainSys | AICTE Full Stack Intern
+├── 📊 cgpa         → 7.5 / 10
+├── 🔭 building     → omnimind · shot-architect · aegis
+├── 🌱 learning     → Agentic AI · AWS · System Design at Scale
+├── 🏆 achievements → Top 20 THREX Hackathon · Top 15 VIBETHON (1000+ devs)
+├── ⚡ fun_fact     → Built a 3D particle neural network for my portfolio
+└── 💬 philosophy   → "Ship fast. Learn faster. Build things that matter."
+```
 
-![Student](https://img.shields.io/badge/🎓%20Student-Chennai%20Institute%20of%20Technology-7c3aed?style=flat-square)
-&nbsp;
-![CGPA](https://img.shields.io/badge/📊%20CGPA-7.5%20%2F%2010-00d4ff?style=flat-square)
-&nbsp;
-![Projects](https://img.shields.io/badge/🚀%20Projects-6%2B%20Built-FFD700?style=flat-square)
-&nbsp;
-![Hackathons](https://img.shields.io/badge/⚡%20Hackathons-2%20Podiums-FF6B6B?style=flat-square)
+---
 
-</div>
+## 🚀 Projects
 
-<br/>
+### 🤖 AI & Machine Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧑‍💻 Quick Info**
+<a href="https://github.com/shaktivijayas/omnimind">
+<img src="https://img.shields.io/badge/─────%20omnimind%20─────-No--code%20AI%20Chatbot%20SaaS-7c3aed?style=for-the-badge&logo=openai&logoColor=white" width="100%"/>
+</a>
 
-- 🎓 **B.E CSE** @ Chennai Institute of Technology (2024–2028)
-- 📍 Chennai, India 🇮🇳
-- 📊 CGPA: **7.5**
-- ☁️ **Oracle Cloud Intern** @ ChainSys India
-- 🛠️ **AICTE Full Stack** Virtual Intern
-- 📧 vijayrox1955@gmail.com
-
-> *"Ship fast. Learn faster. Build things that matter."*
-
-</td>
-<td width="50%" valign="top">
-
-**🔭 Currently Building**
-
-- 🤖 **[omnimind](https://github.com/shaktivijayas/omnimind)** — No-code AI chatbot SaaS
-- 🎬 **[shot-architect](https://github.com/shaktivijayas/shot-architect)** — AI cinematic video editor
-- 🛡️ **[aegis](https://github.com/shaktivijayas/aegis)** — Defensive AI security system
-
-**🌱 Currently Learning**
-
-- Agentic AI with LangGraph
-- AWS Cloud Architecture
-- System Design at Scale
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Oracle Integration Cloud Intern
-**🏢 ChainSys India** &nbsp;|&nbsp; May – Jun 2025
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![OIC](https://img.shields.io/badge/OIC-Integration-0052CC?style=flat-square)
-![Enterprise](https://img.shields.io/badge/Enterprise-Systems-7c3aed?style=flat-square)
-
-- Built Oracle Integration Cloud pipelines
-- Automated cross-system enterprise workflows
-- Worked with REST adapters and API triggers
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Full Stack Development Intern
-**🏢 AICTE** &nbsp;|&nbsp; 2024 &nbsp;&nbsp; *(Virtual)*
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- Completed AICTE-certified full stack curriculum
-- Built and deployed production-grade web apps
-- Covered REST APIs, databases, and deployment
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI & Machine Learning
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### [🧠 omnimind](https://github.com/shaktivijayas/omnimind)
-> No-code SaaS to build and deploy AI chatbots
+Multi-channel AI chatbot builder with **LLM + RAG** — deploy to WhatsApp, Slack & Web without writing a single line of code.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Architecture-00d4ff?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Multi-channel deployment across **WhatsApp, Slack & Web** with LLM + RAG architecture and workflow automation via n8n.
+![RAG](https://img.shields.io/badge/RAG-00d4ff?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🎬 shot-architect](https://github.com/shaktivijayas/shot-architect)
-> AI-powered cinematic video production platform
+<a href="https://github.com/shaktivijayas/shot-architect">
+<img src="https://img.shields.io/badge/───%20shot--architect%20───-AI%20Cinematic%20Studio-FF6B6B?style=for-the-badge&logo=film&logoColor=white" width="100%"/>
+</a>
+
+Scene graph video editor with **multi-model AI orchestration** — the Figma for cinematic video production with real-time collaboration.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-Video%20Gen-7c3aed?style=flat-square)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-Video-7c3aed?style=flat-square)
 ![Tldraw](https://img.shields.io/badge/Tldraw-Canvas-FF6B6B?style=flat-square)
-
-Scene graph architecture with **multi-model orchestration**, character consistency via IP-Adapter, and real-time CRDT sync.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [🛡️ aegis](https://github.com/shaktivijayas/aegis)
-> Defensive AI agent security environment
+<a href="https://github.com/shaktivijayas/aegis">
+<img src="https://img.shields.io/badge/─────%20aegis%20─────-Defensive%20AI%20Security-FF4444?style=for-the-badge&logo=shield&logoColor=white" width="100%"/>
+</a>
+
+Trains **Sentinel agents** to detect and counter Shadow AI attacks from compromised coding assistants across 5 difficulty levels.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ML](https://img.shields.io/badge/Red--Teaming-AI%20Security-FF4444?style=flat-square)
-
-Trains **Sentinel agents** to detect Shadow AI attacks from compromised coding assistants across 5 difficulty levels.
+![ML](https://img.shields.io/badge/Red--Teaming-AI-FF4444?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-#### [😌 echomood](https://github.com/shaktivijayas/echomood)
-> AI mood-responsive chat and cloud sync dashboard
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<a href="https://github.com/shaktivijayas/echomood">
+<img src="https://img.shields.io/badge/─────%20echomood%20─────-AI%20Mood%20Dashboard-00d4ff?style=for-the-badge&logo=google&logoColor=white" width="100%"/>
+</a>
 
 Mood-aware conversations powered by **Google Gemini** with Nextcloud file sync, deployed via Docker and Kubernetes.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </td>
 </tr>
@@ -195,33 +120,34 @@ Mood-aware conversations powered by **Google Gemini** with Nextcloud file sync, 
 
 ### 🛠️ Full Stack
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-#### [📈 gradepath](https://github.com/shaktivijayas/gradepath)
-> Full-stack college management system
+<a href="https://github.com/shaktivijayas/gradepath">
+<img src="https://img.shields.io/badge/─────%20gradepath%20─────-College%20Management%20System-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black" width="100%"/>
+</a>
+
+Full-stack college platform with **role-based access** — attendance, marks, announcements & competitive programming all in one dashboard.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-Tracks **attendance, marks, announcements & CP performance** with role-based access control for admins, faculty and students.
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
 
 </td>
 <td width="50%" valign="top">
 
-#### [🔐 AuthentiQ](https://github.com/shaktivijayas/AuthentiQ)
-> Cryptographic certificate verification platform
+<a href="https://github.com/shaktivijayas/AuthentiQ">
+<img src="https://img.shields.io/badge/─────%20AuthentiQ%20─────-Certificate%20Verification-4CAF50?style=for-the-badge&logo=shield-check&logoColor=white" width="100%"/>
+</a>
+
+Trust-minimized platform where institutions issue **SHA-256 cryptographic credentials** — anyone can verify authenticity instantly.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SHA256](https://img.shields.io/badge/SHA--256-Hashing-FF6B6B?style=flat-square)
-
-Trust-minimized credential system — institutions issue **cryptographically verifiable** academic certificates with instant verification.
+![SHA256](https://img.shields.io/badge/SHA--256-Crypto-FF6B6B?style=flat-square)
 
 </td>
 </tr>
@@ -229,56 +155,45 @@ Trust-minimized credential system — institutions issue **cryptographically ver
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
+**Languages**
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark" />
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgresql,mongodb&theme=dark" />
+**Frontend**
 
-### Cloud, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,linux,vscode&theme=dark" />
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-</div>
+**Backend & Databases**
 
-<br/>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
 
-<details>
-<summary><b>🔍 View full tech stack</b></summary>
-<br/>
-<div align="center">
+**AI & Cloud**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](https://oracle.com/cloud)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
-</details>
 
 ---
 
@@ -286,13 +201,19 @@ Trust-minimized credential system — institutions issue **cryptographically ver
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shaktivijayas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaktivijayas&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaktivijayas&theme=tokyonight" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktivijayas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaktivijayas&theme=tokyonight" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaktivijayas&theme=tokyonight" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shaktivijayas&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="60%" />
+<img src="https://streak-stats.demolab.com?user=shaktivijayas&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="55%" />
 
 <br/><br/>
 
@@ -305,9 +226,7 @@ Trust-minimized credential system — institutions issue **cryptographically ver
 ## 🏆 Trophies
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=shaktivijayas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-
 </div>
 
 ---
@@ -315,13 +234,11 @@ Trust-minimized credential system — institutions issue **cryptographically ver
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaktivijayas/shaktivijayas/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaktivijayas/shaktivijayas/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shaktivijayas/shaktivijayas/output/github-contribution-grid-snake.svg" />
 </picture>
-
 </div>
 
 ---
@@ -343,17 +260,11 @@ Trust-minimized credential system — institutions issue **cryptographically ver
 
 ---
 
-## 💬 Dev Quote
-
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting!%20Lets%20build%20something%20great%20together&fontAlignY=65" />
 
