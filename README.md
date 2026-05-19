@@ -54,7 +54,7 @@ achievements:
   - 🥇 Top 15 — India's First VIBETHON @ Polaris, Bengaluru (1000+ participants)
 
 fun_fact: I built a 3D particle neural network for my portfolio 🧠✨
-` ` `
+```
 
 ---
 
@@ -111,6 +111,20 @@ fun_fact: I built a 3D particle neural network for my portfolio 🧠✨
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaktivijayas/shaktivijayas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaktivijayas/shaktivijayas/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shaktivijayas/shaktivijayas/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -136,17 +150,3 @@ fun_fact: I built a 3D particle neural network for my portfolio 🧠✨
 *B.E Computer Science & Engineering · Chennai Institute of Technology · 2024–2028*
 
 </div>
-```
-
----
-
-## What I fixed:
-
-| Problem | Fix |
-|---|---|
-| Header broken | Switched to `waving` + `twinkling` animation — most reliable type |
-| Typing SVG broken | Changed domain back to `herokuapp.com` (demolab was wrong) |
-| Stats cards broken | Removed `&border_radius=10` parameter that was breaking the URL |
-| Streak broken | Switched to `streak-stats.demolab.com` (the correct working domain) |
-
-**Important:** In the About Me section, remove the spaces I added inside the closing triple backticks ` ` ` — I had to add spaces so it didn't break my message. It should be three backticks with no spaces: ` ``` `
