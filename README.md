@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/─────%20omnimind%20─────-No--code%20AI%20Chatbot%20SaaS-7c3aed?style=for-the-badge&logo=openai&logoColor=white" width="100%"/>
 </a>
 
-Multi-channel AI chatbot builder with **LLM + RAG** ; deploy to WhatsApp, Slack & Web without writing a single line of code.
+Multi-channel AI chatbot builder with **LLM + RAG** : deploy to WhatsApp, Slack & Web without writing a single line of code.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
@@ -77,7 +77,7 @@ Multi-channel AI chatbot builder with **LLM + RAG** ; deploy to WhatsApp, Slack 
 <img src="https://img.shields.io/badge/───%20shot--architect%20───-AI%20Cinematic%20Studio-FF6B6B?style=for-the-badge&logo=film&logoColor=white" width="100%"/>
 </a>
 
-Scene graph video editor with **multi-model AI orchestration** ; the Figma for cinematic video production with real-time collaboration.
+Scene graph video editor with **multi-model AI orchestration** : the Figma for cinematic video production with real-time collaboration.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -128,7 +128,7 @@ Mood-aware conversations powered by **Google Gemini** with Nextcloud file sync, 
 <img src="https://img.shields.io/badge/─────%20gradepath%20─────-College%20Management%20System-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black" width="100%"/>
 </a>
 
-Full-stack college platform with **role-based access** ; attendance, marks, announcements & competitive programming all in one dashboard.
+Full-stack college platform with **role-based access** : attendance, marks, announcements & competitive programming all in one dashboard.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -142,7 +142,7 @@ Full-stack college platform with **role-based access** ; attendance, marks, anno
 <img src="https://img.shields.io/badge/─────%20AuthentiQ%20─────-Certificate%20Verification-4CAF50?style=for-the-badge&logo=shield-check&logoColor=white" width="100%"/>
 </a>
 
-Trust-minimized platform where institutions issue **SHA-256 cryptographic credentials** ; anyone can verify authenticity instantly.
+Trust-minimized platform where institutions issue **SHA-256 cryptographic credentials** : anyone can verify authenticity instantly.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
