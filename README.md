@@ -124,12 +124,6 @@ fun_fact: Built a 3D particle neural network for my portfolio
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shaktivijayas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&cache_seconds=1800" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktivijayas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8&cache_seconds=1800" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=shaktivijayas&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="60%" />
 
 <br/><br/>
