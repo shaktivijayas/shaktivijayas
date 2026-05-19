@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shakti%20Vijay%20A%20S&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer%20%7C%20Chennai%2C%20India&descSize=18&descColor=rgba(255,255,255,0.85)&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shakti%20Vijay%20A%20S&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer%20%7C%20Chennai%2C%20India&descSize=18&descColor=fff&descAlignY=58" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+AI-powered+products+that+ship;🧠+LLM+%2B+RAG+%2B+Vector+Databases;⚡+Full+Stack+%7C+Next.js+%2B+Node+%2B+Python;☁️+Oracle+Cloud+Intern+%40+ChainSys+India;🏆+Top+20+All+India+%40+THREX+Hackathon;🥇+Top+15+%40+India%27s+First+VIBETHON;🚀+Open+to+Full+Stack+%26+AI+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-powered+products+that+ship;LLM+%2B+RAG+%2B+Vector+Databases;Full+Stack+%7C+Next.js+%2B+Node+%2B+Python;Oracle+Cloud+Intern+%40+ChainSys+India;Top+20+All+India+%40+THREX+Hackathon;Top+15+%40+India%27s+First+VIBETHON;Open+to+Full+Stack+%26+AI+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,17 +30,13 @@
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
 ```yaml
 name: Shakti Vijay A S
-location: Chennai, India 🇮🇳
+location: Chennai, India
 education:
   degree: B.E Computer Science Engineering
   college: Chennai Institute of Technology
@@ -48,62 +44,25 @@ education:
   cgpa: 7.5
 
 currently:
-  - 🔭 Building AI-powered SaaS products
-  - 🌱 Exploring LLM + RAG + Agentic AI
-  - 💡 Diving deep into system design & cloud
+  - Building AI-powered SaaS products
+  - Exploring LLM + RAG + Agentic AI
+  - Diving deep into system design & cloud
 
 experience:
-  - ☁️  Oracle Integration Cloud Intern @ ChainSys India
-  - 🛠️  AICTE Full Stack Dev Virtual Intern
+  - Oracle Integration Cloud Intern @ ChainSys India
+  - AICTE Full Stack Dev Virtual Intern
 
 achievements:
-  - 🏆 Top 20 All India — THREX Hackathon @ SRM
-  - 🥇 Top 15 — India's First VIBETHON @ Polaris, Bengaluru
-       (1000+ participants nationwide)
+  - Top 20 All India — THREX Hackathon @ SRM Institute
+  - Top 15 — India's First VIBETHON @ Polaris, Bengaluru (1000+ participants)
 
 philosophy: "Ship fast. Learn faster. Build things that matter."
-fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
+fun_fact: Built a 3D particle neural network for my portfolio
 ```
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/shaktivijayas/omnimind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaktivijayas&repo=omnimind&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-</a>
-&nbsp;
-<a href="https://github.com/shaktivijayas/shot-architect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaktivijayas&repo=shot-architect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/shaktivijayas/aegis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaktivijayas&repo=aegis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-</a>
-&nbsp;
-<a href="https://github.com/shaktivijayas/gradepath">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaktivijayas&repo=gradepath&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/shaktivijayas/AuthentiQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaktivijayas&repo=AuthentiQ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-</a>
-&nbsp;
-<a href="https://github.com/shaktivijayas/echomood">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaktivijayas&repo=echomood&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -118,29 +77,25 @@ fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### ⚡ Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
 
-### 🎨 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark" />
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgresql,mongodb&theme=dark" />
 
-### ☁️ Cloud, DevOps & Tools
+### Cloud, DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,linux,vscode&theme=dark" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -163,15 +118,15 @@ fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shaktivijayas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shaktivijayas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&cache_seconds=1800" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktivijayas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktivijayas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
@@ -179,11 +134,11 @@ fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktivijayas&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktivijayas&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 🏆 Trophies
 
@@ -193,7 +148,7 @@ fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 🐍 Contribution Snake
 
@@ -207,7 +162,7 @@ fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 🎯 2025 Roadmap
 
@@ -224,7 +179,7 @@ fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 ## 💬 Random Dev Quote
 
@@ -238,6 +193,6 @@ fun_fact: Built a 3D particle neural network for my portfolio 🧠✨
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great%20together%20🚀&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling&fontColor=fff&fontSize=16&text=Thanks%20for%20visiting!%20Lets%20build%20something%20great%20together&fontAlignY=65" />
 
 </div>
