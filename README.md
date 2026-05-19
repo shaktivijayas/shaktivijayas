@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shakti%20Vijay%20A%20S&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer%20%7C%20Chennai%2C%20India&descSize=18&descColor=fff&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shakti%20Vijay%20A%20S&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%2B%20AI%20Engineer%20%7C%20Chennai%2C%20India&descSize=18&descColor=fff&descAlignY=58" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-powered+products+that+ship;LLM+%2B+RAG+%2B+Vector+Databases;Full+Stack+%7C+Next.js+%2B+Node+%2B+Python;Oracle+Cloud+Intern+%40+ChainSys+India;Top+20+All+India+%40+THREX+Hackathon;Top+15+%40+India%27s+First+VIBETHON;Open+to+Full+Stack+%26+AI+Roles" alt="Typing SVG" />
