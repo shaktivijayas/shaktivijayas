@@ -30,7 +30,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 👨‍💻 About Me
 
@@ -60,7 +60,7 @@ philosophy: "Ship fast. Learn faster. Build things that matter."
 fun_fact: Built a 3D particle neural network for my portfolio
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 🚀 Featured Projects
 
@@ -77,7 +77,7 @@ fun_fact: Built a 3D particle neural network for my portfolio
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -118,7 +118,7 @@ fun_fact: Built a 3D particle neural network for my portfolio
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 📊 GitHub Stats
 
@@ -138,7 +138,7 @@ fun_fact: Built a 3D particle neural network for my portfolio
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 🏆 Trophies
 
@@ -148,7 +148,7 @@ fun_fact: Built a 3D particle neural network for my portfolio
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 🐍 Contribution Snake
 
@@ -162,7 +162,7 @@ fun_fact: Built a 3D particle neural network for my portfolio
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 🎯 2025 Roadmap
 
@@ -179,7 +179,7 @@ fun_fact: Built a 3D particle neural network for my portfolio
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+---
 
 ## 💬 Random Dev Quote
 
