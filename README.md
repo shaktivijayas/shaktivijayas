@@ -6,6 +6,8 @@
 
 # Shakti Vijay
 
+### Full-Stack Developer · AI/ML Enthusiast
+
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
@@ -41,19 +43,6 @@ Techstack  : Python, TypeScript, JavaScript, React, Next.js,
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaktivijayas&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=shaktivijayas&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktivijayas&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" width="55%" alt="Top Languages"/>
-
-</div>
 
 <br/>
 
