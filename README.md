@@ -8,9 +8,8 @@
 
 <br/>
 
-*"SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing."*
-<br/>
-**— Philip Greenspun**
+<img src="./quote-dark.svg#gh-dark-mode-only" alt="Random Quote"/>
+<img src="./quote-light.svg#gh-light-mode-only" alt="Random Quote"/>
 
 </div>
 
@@ -38,7 +37,6 @@ Core .................... Python, TypeScript, JavaScript
 Database ................ PostgreSQL, MongoDB
 DevOps .................. Docker, Kubernetes, Vercel
 AI / ML ................. OpenAI, LangChain, Gemini
-
 ```
 
 </td>
