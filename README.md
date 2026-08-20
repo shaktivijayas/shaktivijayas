@@ -22,12 +22,6 @@
 ```
 SHAKTI VIJAY
 ──────────────────────────────────
-
-# system
-OS ...................... Linux
-Editor .................. VS Code
-Shell ................... zsh
-
 # contact
 Email ................... vijayrox1955@gmail.com
 LinkedIn ................ linkedin.com/in/shaktidev
@@ -42,6 +36,7 @@ Core .................... Python, TypeScript, JavaScript
 Database ................ PostgreSQL, MongoDB
 DevOps .................. Docker, Kubernetes, Vercel
 AI / ML ................. OpenAI, LangChain, Gemini
+
 ```
 
 </td>
