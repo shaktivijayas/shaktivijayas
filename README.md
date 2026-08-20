@@ -7,10 +7,8 @@
 # Shakti Vijay
 
 <br/>
-
 <img src="./quote-dark.svg#gh-dark-mode-only" alt="Random Quote"/>
 <img src="./quote-light.svg#gh-light-mode-only" alt="Random Quote"/>
-
 </div>
 
 <br/>
