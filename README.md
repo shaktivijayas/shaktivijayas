@@ -61,7 +61,7 @@ SHAKTI VIJAY
 # about
 Role ...................... CS Undergrad · AI/ML & Full-Stack
 Education ................. B.E. CSE, Chennai Institute of Tech
-Current ................... AI Intern @ Prodapt Solutions
+Intern ................... @ Prodapt Solutions,@ Chain-sys pvt Ltd
 
 # skills
 Languages ................. JavaScript, TypeScript, Python, Java
