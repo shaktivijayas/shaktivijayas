@@ -2,7 +2,7 @@ name: Rotate Quote
 
 on:
   schedule:
-    - cron: '0 */3 * * *'   # regenerates a new random quote every 3 hours
+    - cron: '*/5 * * * *'   # regenerates a new random quote every 5 minutes
   workflow_dispatch:        # lets you trigger it manually from the Actions tab
 
 permissions:
