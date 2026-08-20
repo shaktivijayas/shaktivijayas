@@ -6,10 +6,11 @@
 
 # Shakti Vijay
 
-
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+*"SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing."*
+<br/>
+**— Philip Greenspun**
 
 </div>
 
@@ -22,6 +23,7 @@
 ```
 SHAKTI VIJAY
 ──────────────────────────────────
+
 # contact
 Email ................... vijayrox1955@gmail.com
 LinkedIn ................ linkedin.com/in/shaktidev
@@ -36,7 +38,6 @@ Core .................... Python, TypeScript, JavaScript
 Database ................ PostgreSQL, MongoDB
 DevOps .................. Docker, Kubernetes, Vercel
 AI / ML ................. OpenAI, LangChain, Gemini
-
 ```
 
 </td>
