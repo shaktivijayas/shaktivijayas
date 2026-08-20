@@ -15,6 +15,12 @@
 
 <br/>
 
+<div align="center">
+
+## ✦ About Me ✦
+
+</div>
+
 <table align="center" cellpadding="12" cellspacing="0" border="0">
 <tr>
 <td width="60%" valign="top">
@@ -49,6 +55,12 @@ AI / ML ................. OpenAI, LangChain, Gemini
 </table>
 
 <br/>
+
+<div align="center">
+
+
+
+</div>
 
 <table align="center" cellpadding="12" cellspacing="0" border="0">
 <tr>
