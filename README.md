@@ -102,8 +102,6 @@ GradePath ................. Academic analytics dashboard
 
 <div align="center">
 
-## ✦ Shoot the Commits ✦
-
 <img src="./game.gif" width="100%" alt="Space Shooter - GitHub Contributions"/>
 
 </div>
