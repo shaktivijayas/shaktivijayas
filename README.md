@@ -42,7 +42,7 @@ AI / ML ................. OpenAI, LangChain, Gemini
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="./assets/spider-portrait.jpg" width="300" alt="portrait"/>
+<img src="./assets/spider-portrait.jpg" width="100%" style="border-radius:6px" alt="portrait"/>
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ SHAKTI VIJAY
 # about
 Role ...................... CS Undergrad · AI/ML & Full-Stack
 Education ................. B.E. CSE, Chennai Institute of Tech
-Current ................... AI Intern @ Prodapt Solutions
+Intern ................... @ Prodapt Solutions,@ Chain-sys pvt Ltd
 
 # skills
 Languages ................. JavaScript, TypeScript, Python, Java
@@ -80,7 +80,7 @@ GradePath ................. Academic analytics dashboard
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="./assets/venom-3.jpg" width="300" alt="portrait"/>
+<img src="./assets/venom-3.jpg" width="100%" style="border-radius:6px" alt="portrait"/>
 
 </td>
 </tr>
