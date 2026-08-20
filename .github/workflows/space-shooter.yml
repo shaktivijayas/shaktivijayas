@@ -20,3 +20,20 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'game.gif'
           strategy: 'random'
+      - name: Sync with the commit the action just pushed
+        run: git pull --ff-only
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install Pillow
+        run: pip install Pillow
+      - name: Desaturate game GIF to match monochrome theme
+        run: python3 desaturate_gif.py game.gif
+      - name: Commit desaturated GIF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add game.gif
+          git diff --staged --quiet || git commit -m "chore: desaturate space shooter gif"
+          git push
