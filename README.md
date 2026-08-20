@@ -38,6 +38,7 @@ Core .................... Python, TypeScript, JavaScript
 Database ................ PostgreSQL, MongoDB
 DevOps .................. Docker, Kubernetes, Vercel
 AI / ML ................. OpenAI, LangChain, Gemini
+
 ```
 
 </td>
