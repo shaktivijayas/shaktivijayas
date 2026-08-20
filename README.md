@@ -6,7 +6,6 @@
 
 # Shakti Vijay
 
-### Full-Stack Developer · AI/ML Enthusiast
 
 <br/>
 
@@ -22,23 +21,33 @@
 
 ```
 SHAKTI VIJAY
-------------
-Email      : vijayrox1955@gmail.com
-LinkedIn   : shaktidev (linkedin.com/in/shaktidev)
-GitHub     : shaktivijayas (github.com/shaktivijayas)
-Website    : portfolio-seven-gray-25.vercel.app
-Instagram  : notshakti._ (instagram.com/notshakti._)
-Techstack  : Python, TypeScript, JavaScript, React, Next.js,
-             Three.js, Tailwind CSS, HTML5, CSS3, Node.js,
-             Express, FastAPI, Flask, PostgreSQL, MongoDB,
-             Docker, Kubernetes, Vercel, OpenAI, LangChain,
-             Gemini, Oracle Cloud
+──────────────────────────────────
+
+# system
+OS ...................... Linux
+Editor .................. VS Code
+Shell ................... zsh
+
+# contact
+Email ................... vijayrox1955@gmail.com
+LinkedIn ................ linkedin.com/in/shaktidev
+GitHub .................. github.com/shaktivijayas
+Portfolio ............... portfolio-seven-gray-25.vercel.app
+Instagram ............... instagram.com/notshakti._
+
+# languages
+Frontend ................ React, Next.js, Three.js, Tailwind
+Backend ................. Node.js, Express, FastAPI, Flask
+Core .................... Python, TypeScript, JavaScript
+Database ................ PostgreSQL, MongoDB
+DevOps .................. Docker, Kubernetes, Vercel
+AI / ML ................. OpenAI, LangChain, Gemini
 ```
 
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="./assets/spiderman-logo.png" width="180"/>
+<img src="./assets/spider-portrait.jpg" width="100%" style="border-radius:6px" alt="portrait"/>
 
 </td>
 </tr>
