@@ -50,6 +50,44 @@ AI / ML ................. OpenAI, LangChain, Gemini
 
 <br/>
 
+<table align="center" cellpadding="12" cellspacing="0" border="0">
+<tr>
+<td width="60%" valign="top">
+
+```
+SHAKTI VIJAY
+──────────────────────────────────
+
+# about
+Role ...................... CS Undergrad · AI/ML & Full-Stack
+Education ................. B.E. CSE, Chennai Institute of Tech
+Current ................... AI Intern @ Prodapt Solutions
+
+# skills
+Languages ................. JavaScript, TypeScript, Python, Java
+Frontend .................. React, Next.js, HTML/CSS
+Backend ................... Node.js, Express, Flask, FastAPI
+Databases .................. MySQL, PostgreSQL, MongoDB
+AI / ML ................... Groq, Gemini, GPT-4, RAG
+
+# projects
+Omnimind .................. Multi-tenant SaaS chatbot platform
+Wraith .................... Adaptive AI fighting game
+Shot Architect ............ Multi-model video production
+GradePath ................. Academic analytics dashboard
+```
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="./assets/venom-3.jpg" width="100%" style="border-radius:6px" alt="portrait"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
 ## ✦ Shoot the Commits ✦
