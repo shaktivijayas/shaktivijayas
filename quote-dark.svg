@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="126" viewBox="0 0 760 126">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="100" viewBox="0 0 760 100">
   <style>
     .quote { font: italic 400 18px 'Segoe UI', ui-sans-serif, sans-serif; fill: #e6e6e6; }
     .author { font: 600 15px 'Segoe UI', ui-sans-serif, sans-serif; fill: #e6e6e6; opacity: 0.75; }
   </style>
   <text text-anchor="middle" class="quote" x="50%" y="40">
-    <tspan x="50%" dy="0">“Don't live your life making up excuses. The one making</tspan>
-    <tspan x="50%" dy="26">your choices is yourself!”</tspan>
+    <tspan x="50%" dy="0">“If you don't take risks, you can't create a future!”</tspan>
   </text>
-  <text text-anchor="middle" class="author" x="50%" y="116">— Mugen</text>
+  <text text-anchor="middle" class="author" x="50%" y="90">— Monkey D. Luffy</text>
 </svg>
