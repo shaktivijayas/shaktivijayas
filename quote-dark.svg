@@ -4,8 +4,8 @@
     .author { font: 600 15px 'Segoe UI', ui-sans-serif, sans-serif; fill: #e6e6e6; opacity: 0.75; }
   </style>
   <text text-anchor="middle" class="quote" x="50%" y="40">
-    <tspan x="50%" dy="0">“It's more important to master the cards you're holding</tspan>
-    <tspan x="50%" dy="26">than to complain about the ones your opponent was dealt.”</tspan>
+    <tspan x="50%" dy="0">“If your life can change once, your life can change</tspan>
+    <tspan x="50%" dy="26">again.”</tspan>
   </text>
-  <text text-anchor="middle" class="author" x="50%" y="116">— Grimsley</text>
+  <text text-anchor="middle" class="author" x="50%" y="116">— Sanae Furukawa</text>
 </svg>
