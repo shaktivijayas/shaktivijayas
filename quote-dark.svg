@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="100" viewBox="0 0 760 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="126" viewBox="0 0 760 126">
   <style>
     .quote { font: italic 400 18px 'Segoe UI', ui-sans-serif, sans-serif; fill: #e6e6e6; }
     .author { font: 600 15px 'Segoe UI', ui-sans-serif, sans-serif; fill: #e6e6e6; opacity: 0.75; }
   </style>
   <text text-anchor="middle" class="quote" x="50%" y="40">
-    <tspan x="50%" dy="0">“I'll leave tomorrow's problems to tomorrow's me.”</tspan>
+    <tspan x="50%" dy="0">“If your life can change once, your life can change</tspan>
+    <tspan x="50%" dy="26">again.”</tspan>
   </text>
-  <text text-anchor="middle" class="author" x="50%" y="90">— Saitama</text>
+  <text text-anchor="middle" class="author" x="50%" y="116">— Sanae Furukawa</text>
 </svg>
