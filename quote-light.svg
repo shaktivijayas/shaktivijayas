@@ -4,8 +4,8 @@
     .author { font: 600 15px 'Segoe UI', ui-sans-serif, sans-serif; fill: #1a1a1a; opacity: 0.75; }
   </style>
   <text text-anchor="middle" class="quote" x="50%" y="40">
-    <tspan x="50%" dy="0">“How can you move forward if you keep regretting the</tspan>
-    <tspan x="50%" dy="26">past?”</tspan>
+    <tspan x="50%" dy="0">“If your life can change once, your life can change</tspan>
+    <tspan x="50%" dy="26">again.”</tspan>
   </text>
-  <text text-anchor="middle" class="author" x="50%" y="116">— Edward Elric</text>
+  <text text-anchor="middle" class="author" x="50%" y="116">— Sanae Furukawa</text>
 </svg>
