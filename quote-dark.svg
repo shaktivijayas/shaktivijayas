@@ -4,8 +4,8 @@
     .author { font: 600 15px 'Segoe UI', ui-sans-serif, sans-serif; fill: #e6e6e6; opacity: 0.75; }
   </style>
   <text text-anchor="middle" class="quote" x="50%" y="40">
-    <tspan x="50%" dy="0">“If you don't like your destiny, don't accept it. Instead,</tspan>
-    <tspan x="50%" dy="26">have the courage to change it the way you want it to be.”</tspan>
+    <tspan x="50%" dy="0">“Don't live your life making up excuses. The one making</tspan>
+    <tspan x="50%" dy="26">your choices is yourself!”</tspan>
   </text>
-  <text text-anchor="middle" class="author" x="50%" y="116">— Naruto Uzumaki</text>
+  <text text-anchor="middle" class="author" x="50%" y="116">— Mugen</text>
 </svg>
