@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="100" viewBox="0 0 760 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="126" viewBox="0 0 760 126">
   <style>
     .quote { font: italic 400 18px 'Segoe UI', ui-sans-serif, sans-serif; fill: #1a1a1a; }
     .author { font: 600 15px 'Segoe UI', ui-sans-serif, sans-serif; fill: #1a1a1a; opacity: 0.75; }
   </style>
   <text text-anchor="middle" class="quote" x="50%" y="40">
-    <tspan x="50%" dy="0">“If you don't take risks, you can't create a future!”</tspan>
+    <tspan x="50%" dy="0">“Being weak is nothing to be ashamed of... Staying weak</tspan>
+    <tspan x="50%" dy="26">is!!!”</tspan>
   </text>
-  <text text-anchor="middle" class="author" x="50%" y="90">— Monkey D. Luffy</text>
+  <text text-anchor="middle" class="author" x="50%" y="116">— Fuegoleon Vermillion</text>
 </svg>
